@@ -1,3 +1,0 @@
-Credenciales ingreso login
-user: admin
-password: prueba1234
